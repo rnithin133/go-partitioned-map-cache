@@ -1,4 +1,4 @@
-module github.com/vadiminshakov/partmap
+module github.com/rnithin133/go-partitioned-map-cache
 
 go 1.20
 
